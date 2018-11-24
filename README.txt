@@ -6,4 +6,4 @@ Git is free software
 
 I will change content of this file
 
-
+Git has a mutbale index called stage.
